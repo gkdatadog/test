@@ -1,2 +1,1 @@
-# test
-test repo
+This repo is created with Graphite!
